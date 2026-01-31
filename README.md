@@ -27,4 +27,4 @@ All documents are **academic and illustrative**, created to demonstrate GRC conc
 
 ## ⚠️ Disclaimer
 
-These documents are **not based on a real organization** and are intended solely for educational and portfolio purposes.
+These documents are **not based on a real organization** and are intended solely for educational purposes.
